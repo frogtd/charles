@@ -1,0 +1,16 @@
+[StartTime]
+charles base-Static 2.MFC=39s
+[SolverState]
+charles base-Static 2.MFC=2
+[MainFrame]
+charles base-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMDCAAAAAMIBAAAAAEKDAAAAAPFCAAAAA
+[ShowMin]
+charles base-Static 2.MFC=No
+[SolverType]
+charles base-Static 2.MFC=Linear Analysis
+[StudyType]
+charles base-Static 2.MFC=0
+[StudyName]
+charles base-Static 2.MFC=Static 2
+[Solver]
+charles base-Static 2.MFC=Sparse
